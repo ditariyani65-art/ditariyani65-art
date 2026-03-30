@@ -1,16 +1,34 @@
-## Hi there 👋
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/efe87cd1-fc68-45e9-a89f-26b907b1d740" />
 
-<!--
-**ditariyani65-art/ditariyani65-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋, I'm Dita Riyani
 
-Here are some ideas to get you started:
+## 🌸 Introduction
+hallo perkenalkan nama saya Dita Riyani, Saya adalah seorang mahasiswa yang tertarik pada dunia teknologi, khususnya di bidang robotik dan pemrograman. Saya senang belajar hal baru dan terus mengembangkan kemampuan saya di bidang IT.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Skills & Tech Stack
+- Python 🐍
+- HTML & CSS 🌐
+- Git & GitHub 🔧
+- Dasar-dasar Artificial Intelligence 🤖
+
+---
+## 🌐 Social Media
+- Instagram: https://instagram.com/dita_riyani_2342
+
+---
+
+## ✨ Fun Facts
+- palingg sukaa liat video MV idol K-Pop terutama nct-dream🌙
+- Saya suka belajar coding sambil dengar musik 🎧
+
+---
+
+## 💬 Quote
+_"Belajar sedikit setiap hari lebih baik daripada tidak sama sekali."_
+
+---
+
+## 🎨 Banner / GIF
+![GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
